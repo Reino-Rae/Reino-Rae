@@ -1,7 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+<div style="display:float:left">
+  <img height="180em" alt="Reino GitHub status" src="https://github-readme-stats-red-five.vercel.app/api?username=Reino-Rae&show_icon=true&hide-border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" alt="Reino GitHub Language Count" src="https://github-readme-stats-red-five.vercel.app/api/top-langs/?username=Reino-Rae&layout=compact&langs_count=16&theme=tokyonight" />
+</div>
 
-<img aling="left" alt="Reino GitHub status" src="https://github-readme-stats-red-five.vercel.app/api?username=Reino-Rae&show_icon=true&hide-border=true&theme=tokyonight" />
+##
 
+<div>
+  
+ 
+</div>
 <!--
 **Reino-Rae/Reino-Rae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
