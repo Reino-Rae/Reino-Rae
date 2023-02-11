@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div style="display:flex:left">
+<div style="display:flex">
   <img height="180em" alt="Reino GitHub status" src="https://github-readme-stats-red-five.vercel.app/api?username=Reino-Rae&show_icon=true&hide-border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" alt="Reino GitHub Language Count" src="https://github-readme-stats-red-five.vercel.app/api/top-langs/?username=Reino-Rae&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
